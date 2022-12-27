@@ -32,7 +32,7 @@
   />
 </div>
 
-<h3 align="center"> 👊 Tools</h3>
+<h3 align="center"> 🌌 Tools</h3>
 <div align="center">
   <img 
   src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"
