@@ -35,8 +35,6 @@
   <br/>
   <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnsdh8616)](https://solved.ac/gnsdh8616/)
-
 </div>
 
 <br>
