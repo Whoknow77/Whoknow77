@@ -32,10 +32,4 @@
   src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"
   />
 
-  <br/>
-  <br/>
-
 </div>
-
-<br>
-<br>
